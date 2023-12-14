@@ -1,10 +1,14 @@
-# Steno [![](http://img.shields.io/npm/dm/steno.svg?style=flat)](https://www.npmjs.org/package/steno) [![Node.js CI](https://github.com/typicode/steno/actions/workflows/node.js.yml/badge.svg)](https://github.com/typicode/steno/actions/workflows/node.js.yml)
+> # THIS IS A FORK
+>
+> Note that the primary repo can be found at https://github.com/typicode/steno
+
+# Steno [![](http://img.shields.io/npm/dm/steno.svg?style=flat)](https://www.npmjs.org/package/steno) [![Node.js CI](https://github.com/SgtPooki/steno/actions/workflows/node.js.yml/badge.svg)](https://github.com/SgtPooki/steno/actions/workflows/node.js.yml)
 
 > Specialized fast async file writer
 
 **Steno** makes writing to the same file often/concurrently fast and safe.
 
-Used in [lowdb](https://github.com/typicode/lowdb).
+<!-- Used in [lowdb](https://github.com/SgtPooki/lowdb). -->
 
 _https://en.wikipedia.org/wiki/Stenotype_
 
