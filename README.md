@@ -2,7 +2,7 @@
 >
 > Note that the primary repo can be found at https://github.com/typicode/steno
 
-# Steno [![](https://img.shields.io/npm/dm/@SgtPooki/steno-patched.svg?style=flat)](https://www.npmjs.org/package/@SgtPooki/steno-patched) [![Node.js CI](https://github.com/SgtPooki/steno/actions/workflows/node.js.yml/badge.svg)](https://github.com/SgtPooki/steno/actions/workflows/node.js.yml)
+# Steno [![](https://img.shields.io/npm/dm/@sgtpooki/steno-patched.svg?style=flat)](https://www.npmjs.org/package/@sgtpooki/steno-patched) [![Node.js CI](https://github.com/SgtPooki/steno/actions/workflows/node.js.yml/badge.svg)](https://github.com/SgtPooki/steno/actions/workflows/node.js.yml)
 
 > Specialized fast async file writer
 
